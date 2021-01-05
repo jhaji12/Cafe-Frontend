@@ -2,6 +2,85 @@ body{
   background-color: #ceb19c;
 width: 100%;
 }
+@media only screen and (max-width: 415px)
+ {
+  div.first h1{
+  width: 100%;
+  font-size: 50px;
+  }
+
+  img .background-img{
+    margin-left: -8px;
+    width: 100%;
+    height: auto;
+    margin-top: -20px;
+    position: relative;
+  }
+
+  div.text{
+    position: relative;
+    color: white;
+    width: 100%;
+    padding-left: 0px;
+    font-size: 10px;
+    margin-left: -690px;
+  }
+   h2.text2{
+    position: relative;
+    color: white;
+    width: 100%;
+    top: 60px;
+    padding-left: 0px;
+    font-size: 40px;
+    margin-left: -690px;
+  }
+  button{
+    margin-top: -600px;
+    position: absolute;
+
+  }
+
+   button:hover{
+     opacity: 80%;
+   }
+
+   div .Navbar1{
+     margin-left: -580px;
+     text-decoration: none;
+     line: none;
+     color: #2d2017;
+     margin-top: 50px;
+   }
+  div .Navbar a{
+     font-size: 20px;
+   }
+   div#Menu.Menu1 {
+     text-align: right;
+     margin-top: 900px;
+     margin-left: 300px;
+   }
+   div.Food{
+     margin-left: 25px;
+     float: left;
+     margin: 0;
+     clear: both;
+   }
+div #About-us.About{
+  display: none;
+}
+  div.Info{
+    left: 300px;
+    position: absolute;
+    font-size: 45px;
+    bottom: 500px;
+  }
+
+  div.Time{
+   position: absolute;
+   padding-bottom: -500px;
+   font-size: 45px;
+  }
+}
 @media screen and ( max-width: 350px )
 {
   body{
