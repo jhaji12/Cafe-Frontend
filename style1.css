@@ -82,7 +82,7 @@ div #About-us.About{
   }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 992px) and (min-width: 420px) {
   .first h1{
     width :100%;
     margin-left: 5px;
