@@ -388,7 +388,7 @@ div h2.text2{
  }
 
  }
-  @media only screen and (max-width: 550px) {
+  /*@media only screen and (max-width: 550px) {
     body{
     background-color: #ceb19c;
     width: 100%;
