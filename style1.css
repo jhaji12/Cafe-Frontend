@@ -1,7 +1,5 @@
 html *
 {
-   
-
    font-family: Curlz MT !important;
 }
  
@@ -481,7 +479,9 @@ div h2.text2{
      font-size: 19px;
      margin-top: -60px;
    }
-   
+   .Text-Menu{
+      font-size: 40px;
+     }
     .Menu1 h1{
      margin-left: 10px;
      font-family:  Papyrus;
