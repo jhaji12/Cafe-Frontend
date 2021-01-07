@@ -390,7 +390,7 @@ div h2.text2{
   @media only screen and (max-width: 550px) {
     body{
     background-color: #ceb19c;
-    width: 100%;
+    width: 90%;
     }
       .first h1{
      font-size: 40px;
@@ -420,7 +420,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -20px;
-     width:100%;
+     width:90%;
    }
    .image2{
      position: relative;
@@ -461,10 +461,10 @@ div h2.text2{
    }
    
    div.Navbar1{
-     margin-left: 230px;
+     margin-left: 190px;
      float: left;
-     font-size: 20px;
-     margin-top: -50px;
+     font-size: 15px;
+     margin-top: -60px;
    }
    
     .Menu1 h1{
@@ -475,10 +475,10 @@ div h2.text2{
    div#Menu.Menu1.row{
      margin-top: 380px;
      font-size: 25px;
-     margin-left: 20px;
+     margin-left: 10px;
    }
    div.menu-img{
-     margin-left: 170px;
+     margin-left: 160px;
      width: 400px;
      height:700px;
      border: inset;
