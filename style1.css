@@ -402,7 +402,7 @@ div h2.text2{
       position: absolute;
       float: left;
       font-family: curlz MT;
-      font-size: 25px;
+      font-size: 30px;
       margin-top: -150px;
     }
 
@@ -413,7 +413,7 @@ div h2.text2{
      width: 100%;
      top: 30px;
      margin-left: 30px;
-     font-size: 20px;
+     font-size: 25px;
     font-family: curlz MT;
    }
 
@@ -422,7 +422,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -20px;
-     width:110%;
+     width:119%;
    }
    .image2{
      position: relative;
@@ -470,46 +470,19 @@ div h2.text2{
    }
    
     .Menu1 h1{
-     margin-left: 50px;
+     margin-left: 40px;
      font-family:  Papyrus;
-     font-size: 35px;
+     font-size: 45px;
    }
    div#Menu.Menu1.row{
      margin-top: 380px;
      font-size: 15px;
-     margin-left: 4px;
      font-family: curlz MT;
    }
-   div.menu-img{
-     margin-left: 160px;
-     width: 400px;
-     height:700px;
-     border: inset;
-     box-shadow: 5px 5px 8px grey;
-   }
-
-   .menu-text
-   {
-     color: white;
-     position:absolute;
-     padding-top: 200px;
-     padding-left: 200px;
-     font-size: 25px;
-     font-family: Curlz MT;
-   }
-   .menu-text1{
-     color: white;
-     position:absolute;
-     padding-top: 200px;
-     padding-left: 850px;
-     font-size: 25px;
-     font-family: Curlz MT;
-   }
-    
    .Menu1{
      font-family: Papyrus;
      margin-top: 710px;
-     font-size: 40px;
+     font-size: 25px;
      color: #2d2017;
      text-align: center;
    }
@@ -520,7 +493,7 @@ div h2.text2{
    div.Gallery{
      margin: 5px;
      border: 1px solid #ccc;
-     margin-left: 0px;
+     margin-left: -5px;
      float: left;
      width: 180px;
      background-color: #2d2017;
