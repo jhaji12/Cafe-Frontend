@@ -397,11 +397,11 @@ div h2.text2{
     body{
     background-color: #ceb19c;
     width: 89%;
-    font-family: Curlz MT;
+    font-family: inherit;
     }
       .first h1{
      font-size: 40px;
-     font-family: Curlz MT;
+     font-family: inherit;
      margin-top: 26px;
     }
     @font-face{
@@ -412,7 +412,7 @@ div h2.text2{
       position: absolute;
       float: left;
    
-      font-family: Curlz MT;
+      font-family: inherit;
       font-size: 30px;
       margin-top: -160px;
     }
@@ -479,7 +479,7 @@ div h2.text2{
      font-size: 19px;
      margin-top: -60px;
    }
-   div .Text-Menu{
+    h1.Text-Menu{
       font-size: 40px;
      }
     .Menu1 h1{
@@ -490,7 +490,7 @@ div h2.text2{
    div#Menu.Menu1.row{
      margin-top: 380px;
      font-size: 15px;
-     font-family: curlz MT;
+     font-family: inherit;
    }
    .Menu1{
      font-family: Papyrus;
