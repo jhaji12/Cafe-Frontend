@@ -497,7 +497,7 @@ div h2.text2{
    div.Gallery{
      margin: 5px;
      border: 1px solid #ccc;
-     margin-left: -5px;
+     margin-left: -15px;
      float: left;
      width: 180px;
      background-color: #2d2017;
@@ -553,7 +553,7 @@ div h2.text2{
    }
    div.About .Info{
      margin-left: -130px;
-     margin-top: 145px;
+     margin-top: 200px;
      font-size: 15px;
    }
 
