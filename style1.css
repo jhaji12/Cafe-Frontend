@@ -1,4 +1,4 @@
-html *
+*
 {
    font-family: Curlz MT !important;
 }
@@ -479,7 +479,7 @@ div h2.text2{
      font-size: 19px;
      margin-top: -60px;
    }
-   .Text-Menu{
+   div .Text-Menu{
       font-size: 40px;
      }
     .Menu1 h1{
@@ -571,7 +571,7 @@ div h2.text2{
  @media only screen and (max-width: 500px)
   {
     div.signup-text{
-      left: -200px;
+      left: -500px;
     }
    .container1{
    display: grid;
@@ -589,11 +589,7 @@ div h2.text2{
    box-shadow: 5px 5px 5px grey;
    border:  inset;
  }
- .signup-text{
-   text-align: center;
-   margin-top: 10px;
-   font-family: Curlz MT;
- }
+
  .signup-text img{
    margin-top: 10px;
  }
