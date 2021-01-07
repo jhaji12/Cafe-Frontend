@@ -421,8 +421,8 @@ div h2.text2{
      margin-left: -10px;
      position:absolute;
      height: 400px;
-     margin-top: -20px;
-     width:119%;
+     margin-top: -15px;
+     width:120%;
    }
    .image2{
      position: relative;
@@ -470,9 +470,9 @@ div h2.text2{
    }
    
     .Menu1 h1{
-     margin-left: 40px;
+     margin-left: 10px;
      font-family:  Papyrus;
-     font-size: 45px;
+     font-size: 25px;
    }
    div#Menu.Menu1.row{
      margin-top: 380px;
@@ -530,7 +530,7 @@ div h2.text2{
      color: white;
      float: left;
      margin-top: 10px;
-     width: 100%;
+     width: 120%;
    }
    div.About .Time{
        margin-left: 20px;
