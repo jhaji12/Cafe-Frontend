@@ -420,7 +420,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -20px;
-     width:100%;
+     width:130%;
    }
    .image2{
      position: relative;
@@ -459,10 +459,7 @@ div h2.text2{
    .container{
      display: flex;
    }
-   a.navbar-text1{
-     margin-left: -200px;
-     
-   }
+   
    div.Navbar1{
      margin-left: 230px;
      float: left;
