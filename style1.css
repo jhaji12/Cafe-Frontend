@@ -390,18 +390,19 @@ div h2.text2{
   @media only screen and (max-width: 550px) {
     body{
     background-color: #ceb19c;
-    width: 90%;
+    width: 89%;
     }
       .first h1{
      font-size: 40px;
-     font-family: Curlz MT;
+     font-family: curlz MT;
      margin-top: 26px;
     }
   div  h1.text{
       margin-left: 20px;
       position: absolute;
       float: left;
-      font-size: 20px;
+      font-family: curlz MT;
+      font-size: 25px;
       margin-top: -150px;
     }
 
@@ -412,7 +413,8 @@ div h2.text2{
      width: 100%;
      top: 30px;
      margin-left: 30px;
-     font-size: 15px;
+     font-size: 20px;
+    font-family: curlz MT;
    }
 
    .background-img{
@@ -420,7 +422,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -20px;
-     width:90%;
+     width:100%;
    }
    .image2{
      position: relative;
@@ -470,12 +472,13 @@ div h2.text2{
     .Menu1 h1{
      margin-left: 50px;
      font-family:  Papyrus;
-     font-size: 19px;
+     font-size: 35px;
    }
    div#Menu.Menu1.row{
      margin-top: 380px;
      font-size: 25px;
-     margin-left: 10px;
+     margin-left: 5px;
+     font-family: curlz MT;
    }
    div.menu-img{
      margin-left: 160px;
@@ -548,12 +551,12 @@ div h2.text2{
    }
    div.About{
      background-color: black;
-     font-size: 15px;
+     font-size: 25px;
      border: inset;
      color: white;
      float: left;
      margin-top: 10px;
-     width: 60%;
+     width: 100%;
    }
    div.About .Time{
        margin-left: 20px;
