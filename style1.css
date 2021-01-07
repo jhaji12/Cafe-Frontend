@@ -394,14 +394,14 @@ div h2.text2{
     }
       .first h1{
      font-size: 40px;
-     font-family: curlz MT;
+     font-family: Curlz MT;
      margin-top: 26px;
     }
   div  h1.text{
       margin-left: 20px;
       position: absolute;
       float: left;
-      font-family: curlz MT;
+      font-family: Curlz MT;
       font-size: 30px;
       margin-top: -160px;
     }
@@ -414,7 +414,7 @@ div h2.text2{
      top: 30px;
      margin-left: 30px;
      font-size: 25px;
-    font-family: curlz MT;
+    font-family: Curlz MT;
    }
 
    .background-img{
@@ -439,7 +439,7 @@ div h2.text2{
      margin-left: 780px;
      margin-top: 170px;
      font-size: 40px;
-     font-family: curlz MT;
+     font-family: Curlz MT;
      color: #FFFDD0;
    }
    .image2 button{
@@ -530,7 +530,7 @@ div h2.text2{
      color: white;
      float: left;
      margin-top: 10px;
-     width: 120%;
+     width: 118%;
      margin-left:-5px;
    }
    div.About .Time{
@@ -549,13 +549,13 @@ div h2.text2{
    }
    div.About .Info{
      margin-left: -130px;
-     margin-top: 110px;
+     margin-top: 125px;
      font-size: 15px;
    }
 
    }
  /** signup css file**/
- @media only screen and (max-width: 415px)
+ @media only screen and (max-width: 500px)
   {
     div.signup-text{
       left: -200px;
