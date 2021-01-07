@@ -682,7 +682,7 @@ div h2.text2{
  @media only screen and (max-width: 500px)
   {
     
-     .login
+  .login
  {
    font-family: Curlz-MT;
    text-align: center;
@@ -733,6 +733,7 @@ div h2.text2{
    margin-left: 850px;
    margin-top: -460px;
    box-shadow: 4px 2px 4px white;
+   display:none;
  }
 
   }
