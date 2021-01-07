@@ -397,10 +397,14 @@ div h2.text2{
      font-family: Curlz MT;
      margin-top: 26px;
     }
+    @font-face{
+      font-family:Curlz-MT;
+    }
   div  h1.text{
       margin-left: 20px;
       position: absolute;
       float: left;
+   
       font-family: Curlz MT;
       font-size: 30px;
       margin-top: -160px;
@@ -422,7 +426,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -15px;
-     width:120%;
+     width:118%;
    }
    .image2{
      position: relative;
@@ -530,7 +534,7 @@ div h2.text2{
      color: white;
      float: left;
      margin-top: 10px;
-     width: 118%;
+     width: 115%;
      margin-left:-5px;
    }
    div.About .Time{
@@ -549,7 +553,7 @@ div h2.text2{
    }
    div.About .Info{
      margin-left: -130px;
-     margin-top: 125px;
+     margin-top: 145px;
      font-size: 15px;
    }
 
