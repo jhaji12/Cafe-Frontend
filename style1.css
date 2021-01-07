@@ -1,3 +1,6 @@
+
+ 
+
 @media only screen and (max-width: 2440px) and (min-width: 800px) {
   body{
   background-color: #ceb19c;
@@ -391,6 +394,7 @@ div h2.text2{
     body{
     background-color: #ceb19c;
     width: 89%;
+    font-family: Curlz MT;
     }
       .first h1{
      font-size: 40px;
