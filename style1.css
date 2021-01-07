@@ -393,7 +393,7 @@ div h2.text2{
     width: 90%;
     }
       .first h1{
-     font-size: 20px;
+     font-size: 40px;
      font-family: Curlz MT;
      margin-top: 26px;
     }
@@ -420,7 +420,7 @@ div h2.text2{
      position:absolute;
      height: 400px;
      margin-top: -20px;
-     width:60%;
+     width:100%;
    }
    .image2{
      position: relative;
@@ -461,7 +461,7 @@ div h2.text2{
    }
    a.navbar-text1{
      margin-left: -200px;
-     display: none;
+     
    }
    div.Navbar1{
      margin-left: 230px;
@@ -469,23 +469,16 @@ div h2.text2{
      font-size: 30px;
      margin-top: -50px;
    }
-    a
-   {
-     text-decoration: none;
-     line: none;
-     color: #2d2017;
-     font-size: 12px;
-    float: left;
-   }
+   
     .Menu1 h1{
-     margin-left: -10px;
+     margin-left: 20px;
      font-family:  Papyrus;
      font-size: 19px;
    }
    div#Menu.Menu1.row{
      margin-top: 380px;
      font-size: 25px;
-     margin-left: -110px;
+     margin-left: -90px;
    }
    div.menu-img{
      margin-left: 170px;
