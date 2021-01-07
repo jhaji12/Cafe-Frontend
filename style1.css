@@ -411,7 +411,6 @@ div h2.text2{
       margin-left: 20px;
       position: absolute;
       float: left;
-   
       font-family: inherit;
       font-size: 30px;
       margin-top: -160px;
@@ -482,20 +481,16 @@ div h2.text2{
     h1.Text-Menu{
       font-size: 40px;
      }
-    .Menu1 h1{
-     margin-left: 10px;
-     font-family:  Papyrus;
-     font-size: 25px;
-   }
+   
    div#Menu.Menu1.row{
      margin-top: 380px;
-     font-size: 15px;
+     font-size: 25px;
      font-family: inherit;
    }
    .Menu1{
      font-family: Papyrus;
      margin-top: 710px;
-     font-size: 25px;
+     
      color: #2d2017;
      text-align: center;
    }
@@ -571,7 +566,7 @@ div h2.text2{
  @media only screen and (max-width: 500px)
   {
     div.signup-text{
-      left: -500px;
+      margin-left: -500px;
     }
    .container1{
    display: grid;
@@ -684,14 +679,65 @@ div h2.text2{
  }
 }
  /**Login css file **/
- @media only screen and (max-width: 415px)
+ @media only screen and (max-width: 500px)
   {
-    div.login-text{
-      left: -200px;
+    
+     .login
+ {
+   font-family: Curlz-MT;
+   text-align: center;
+   margin-left: 100px;
+   margin-right: 600px;
+   margin-top: 100px;
+   display: flex;
+   height: 450px;
+   background-color: white;
+   box-shadow: 5px 5px 5px grey;
+   border:  inset;
+ }
+ div.login-text{
+   text-align: center;
+   font-family: Curlz MT;
+     left: -200px;
       height: 1700px;
-    }
+ }
+ .login-text img{
+   margin-top: 10px;
+ }
+ .container
+ {
+   display:flex;
+ }
+ .login button{
+   height: 30px;
+   width: 55px;
+   background-color: #ae7d5b;
+   color: white;
+   margin-top: 20px;
+ }
+ button a{
+   line:none;
+ }
+ button:hover{
+   opacity: 0.8;
+ }
+  span a{
+   color: brown;
+   line: none;
+   font-size: 20px;
+ }
+ input{
+   box-shadow: 4px 4px 4px #ae7d5b;
+ }
+ .image3{
+   margin-left: 850px;
+   margin-top: -460px;
+   box-shadow: 4px 2px 4px white;
+ }
 
   }
+@media only screen and (max-width: 2500px)
+  {
  .login
  {
    font-family: Curlz-MT;
@@ -742,3 +788,4 @@ div h2.text2{
    margin-top: -460px;
    box-shadow: 4px 2px 4px white;
  }
+}
