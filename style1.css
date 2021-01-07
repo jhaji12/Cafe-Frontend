@@ -403,7 +403,7 @@ div h2.text2{
       float: left;
       font-family: curlz MT;
       font-size: 30px;
-      margin-top: -150px;
+      margin-top: -160px;
     }
 
   div h2.text2{
@@ -531,10 +531,11 @@ div h2.text2{
      float: left;
      margin-top: 10px;
      width: 120%;
+     margin-left:-5px;
    }
    div.About .Time{
        margin-left: 20px;
-       font-size: 10px;
+       font-size: 15px;
    }
    .About .Time h1{
      border: solid;
@@ -544,13 +545,12 @@ div h2.text2{
    }
    .About img{
      margin-left: 50px;
-
-  display: none;
+     display:none;
    }
    div.About .Info{
      margin-left: -130px;
      margin-top: 110px;
-     font-size: 10px;
+     font-size: 15px;
    }
 
    }
